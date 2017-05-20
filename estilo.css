@@ -1,0 +1,56 @@
+h1 {
+        color: 797979;
+        
+     }
+    h2{
+        color: 797979;
+     
+     }  
+    p {
+        color: 797979;
+        
+     }
+    body {
+        background-image: url(http://bestanimations.com/Food/Beverages/Coffee/coffee-animated-gif-5.gif);
+     }
+     
+     img {
+      float: left;
+      text-align:center;
+    }
+    
+    td {
+    padding: 8px
+   
+    }
+    
+    table {
+    border-collapse: collapse;
+    border: 1px solid black
+    
+    } 
+ 	      
+	h1.mari {
+      color: Gray11;
+      padding: 12px;
+    }
+    
+    footer {
+      color: white;
+      background-color: black;
+      padding: 5px;
+    }
+    
+     h2.yoo {
+       color: Gray21;
+       
+	padding: 12px;     
+       
+    }
+	h1.vlw {
+		color: white;
+		
+	  }
+h3{
+color: Gray31;	
+}
